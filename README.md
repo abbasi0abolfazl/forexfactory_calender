@@ -18,10 +18,8 @@ This repository contains a Python script that fetches and processes Forex events
   - **TXT**: Human-readable, formatted text files.
 - **Custom File Names**: Specify a custom base name for output files.
 - **Scheduling**: Automatically runs the script every hour using the `schedule` library.
+- **Timezone Support**: Convert event times to a specified timezone.
 
-## Prerequisites
-
-- Python 3.x
 
 ## Installation
 
@@ -60,6 +58,7 @@ python forex_events_scheduler.py
 | `--impact`       | Filter events by impact (e.g., `High`, `Medium`, `Low`).                    |
 | `--save-format`  | Save format: `json` or `txt` (default: `json`).                             |
 | `--output-file`  | Base name for the output file (without extension, default: `filtered_events`). |
+| `--timezone`     | Convert event times to the specified timezone (e.g., `America/New_York`).   |
 
 ### Examples
 
@@ -86,6 +85,11 @@ python forex_events_scheduler.py
    ```
    Output file: `high_impact_usd_events.json`.
 
+5. **Convert Event Times to a Specific Timezone**:
+   ```sh
+   python forex_events_scheduler.py --timezone America/New_York
+   ```
+
 ## Running as a Background Process
 
 To run the script as a background process, you can use `nohup` or a process manager like `systemd`:
@@ -108,7 +112,8 @@ The script generates output files based on the provided options:
           "impact": "High",
           "forecast": "200K",
           "previous": "187K",
-          "url": "https://www.forexfactory.com/event/12345"
+          "url": "https://www.forexfactory.com/event/12345",
+          "sessions": ["New York"]
       }
   ]
   ```
@@ -123,6 +128,7 @@ The script generates output files based on the provided options:
   Forecast: 200K
   Previous: 187K
   URL: https://www.forexfactory.com/event/12345
+  Sessions: New York
   ----------------------------------------
   ```
 
