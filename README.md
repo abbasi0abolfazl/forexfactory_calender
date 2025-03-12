@@ -3,23 +3,24 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
-This repository contains a Python script that fetches and processes Forex events from [ForexFactory's](https://www.forexfactory.com/) weekly calendar. The script is designed to run periodically, saving Forex events to structured files for easy analysis and tracking. It supports filtering events by country, title, and impact, and allows users to save the output in either JSON or TXT format.
+This repository contains a Python script that fetches and processes Forex events from [ForexFactory's](https://www.forexfactory.com/) weekly calendar. The script is designed to run periodically, saving Forex events to structured files for easy analysis and tracking. It supports filtering events by currency, title, and impact, and allows users to save the output in either JSON or TXT format.
 
 ## Features
 
-- **Automated Fetching**: Fetches Forex events from ForexFactory's weekly calendar (XML format) every hour.
-- **Event Parsing**: Extracts key details for each event, including title, country, date, time, impact, forecast, previous value, and URL.
+- **Automated Fetching**: Fetches Forex events from ForexFactory's weekly calendar every hour.
+- **Event Parsing**: Extracts key details for each event, including title, currency, date, time, impact, forecast, previous value, and URL.
 - **Custom Filters**: Filter events by:
-  - **Country** (e.g., USD, EUR)
+  - **Currency** (e.g., USD, EUR)
   - **Title** (case-insensitive search)
   - **Impact** (e.g., High, Medium, Low)
-- **Flexible Output Formats**: Save events in:
+- **Output Formats**: Save events in:
   - **JSON**: Structured and machine-readable format.
   - **TXT**: Human-readable, formatted text files.
 - **Custom File Names**: Specify a custom base name for output files.
 - **Scheduling**: Automatically runs the script every hour using the `schedule` library.
-- **Timezone Support**: Convert event times to a specified timezone.
-
+- **Timezone Support**: Convert event times to a specified timezone or use the system's local timezone.
+- **Trading Sessions**: Identifies active trading sessions (e.g., London, New York) and highlights "Golden Time" during overlaps.
+- **Configuration File**: Load options from a JSON config file for easier automation.
 
 ## Installation
 
@@ -50,15 +51,17 @@ python forex_events_scheduler.py
 
 ### Command-Line Options
 
-| Option           | Description                                                                 |
-|------------------|-----------------------------------------------------------------------------|
-| `--schedule`     | Schedule the script to run every hour.                                      |
-| `--country`      | Filter events by country (e.g., `USD`, `EUR`).                              |
-| `--title`        | Filter events by title (case-insensitive).                                  |
-| `--impact`       | Filter events by impact (e.g., `High`, `Medium`, `Low`).                    |
-| `--save-format`  | Save format: `json` or `txt` (default: `json`).                             |
-| `--output-file`  | Base name for the output file (without extension, default: `filtered_events`). |
-| `--timezone`     | Convert event times to the specified timezone (e.g., `America/New_York`).   |
+| Option              | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| `--schedule`        | Schedule the script to run every hour.                                      |
+| `--currency`        | Filter events by currency (e.g., `USD`, `EUR`).                             |
+| `--title`           | Filter events by title (case-insensitive).                                  |
+| `--impact`          | Filter events by impact (e.g., `High`, `Medium`, `Low`).                    |
+| `--save-format`     | Save format: `json` or `txt` (default: `json`).                             |
+| `--output-file`     | Base name for the output file (without extension, default: `filtered_events`). |
+| `--timezone`        | Convert event times to the specified timezone (e.g., `America/New_York`).   |
+| `--system-timezone` | Use the system's local timezone for event times.                            |
+| `--config`          | Path to a JSON config file to load options from.                            |
 
 ### Examples
 
@@ -68,9 +71,9 @@ python forex_events_scheduler.py
    ```
    Output files: `filtered_events.json` or `filtered_events.txt`.
 
-2. **Filter by Country and Save as TXT**:
+2. **Filter by Currency and Save as TXT**:
    ```sh
-   python forex_events_scheduler.py --country USD --save-format txt --output-file usd_events
+   python forex_events_scheduler.py --currency USD --save-format txt --output-file usd_events
    ```
    Output file: `usd_events.txt`.
 
@@ -81,13 +84,23 @@ python forex_events_scheduler.py
 
 4. **Custom File Name and Filters**:
    ```sh
-   python forex_events_scheduler.py --country USD --impact High --output-file high_impact_usd_events
+   python forex_events_scheduler.py --currency USD --impact High --output-file high_impact_usd_events
    ```
    Output file: `high_impact_usd_events.json`.
 
 5. **Convert Event Times to a Specific Timezone**:
    ```sh
    python forex_events_scheduler.py --timezone America/New_York
+   ```
+
+6. **Use System Timezone**:
+   ```sh
+   python forex_events_scheduler.py --system-timezone
+   ```
+
+7. **Load Configuration from a JSON File**:
+   ```sh
+   python forex_events_scheduler.py --config config.json
    ```
 
 ## Running as a Background Process
@@ -106,14 +119,14 @@ The script generates output files based on the provided options:
   [
       {
           "title": "Nonfarm Payrolls",
-          "country": "USD",
+          "currency": "USD",
           "date": "10-27-2023",
           "time": "08:30am",
           "impact": "High",
           "forecast": "200K",
           "previous": "187K",
           "url": "https://www.forexfactory.com/event/12345",
-          "sessions": ["New York"]
+          "sessions": ["New York", "London", "Golden Time"]
       }
   ]
   ```
@@ -121,16 +134,21 @@ The script generates output files based on the provided options:
 - **TXT Format**:
   ```
   Title: Nonfarm Payrolls
-  Country: USD
+  Currency: USD
   Date: 10-27-2023
   Time: 08:30am
   Impact: High
   Forecast: 200K
   Previous: 187K
   URL: https://www.forexfactory.com/event/12345
-  Sessions: New York
+  Sessions: New York, London, Golden Time
   ----------------------------------------
   ```
+
+## Configuration File Example
+
+Change `config.json` file to store frequently used options:
+
 
 ## License
 
