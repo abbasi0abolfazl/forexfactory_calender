@@ -1,0 +1,8 @@
+{
+    "schedule": true,
+    "currency": "USD",
+    "impact": "High",
+    "save_format": "json",
+    "output_file": "usd_high_impact_events",
+    "system_timezone": true
+}
