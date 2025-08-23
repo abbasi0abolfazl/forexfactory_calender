@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Unemployment Claims",
+        "currency": "USD",
+        "date": "05-22-2025",
+        "time": "15:56",
+        "impact": "High",
+        "forecast": "230K",
+        "previous": "229K",
+        "url": "https://www.forexfactory.com/calendar/11-us-unemployment-claims",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Flash Manufacturing PMI",
+        "currency": "USD",
+        "date": "05-22-2025",
+        "time": "17:11",
+        "impact": "High",
+        "forecast": "49.9",
+        "previous": "50.7",
+        "url": "https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Flash Services PMI",
+        "currency": "USD",
+        "date": "05-22-2025",
+        "time": "17:11",
+        "impact": "High",
+        "forecast": "51.0",
+        "previous": "51.4",
+        "url": "https://www.forexfactory.com/calendar/583-us-flash-services-pmi",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    }
+]
