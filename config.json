@@ -1,8 +1,9 @@
 {
-    "schedule": true,
+    "schedule": false,
     "currency": "USD",
     "impact": "High",
     "save_format": "json",
     "output_file": "usd_high_impact_events",
-    "system_timezone": true
+    "system_timezone": false,
+    "timezone": "Asia/Tehran"
 }

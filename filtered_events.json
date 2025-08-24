@@ -1,0 +1,1250 @@
+[
+    {
+        "title": "BusinessNZ Services Index",
+        "currency": "NZD",
+        "date": "08-17-2025",
+        "time": "10:30pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "47.3",
+        "url": "https://www.forexfactory.com/calendar/852-nz-businessnz-services-index",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Rightmove HPI m/m",
+        "currency": "GBP",
+        "date": "08-17-2025",
+        "time": "11:01pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "-1.2%",
+        "url": "https://www.forexfactory.com/calendar/243-uk-rightmove-hpi-mm",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Tertiary Industry Activity m/m",
+        "currency": "JPY",
+        "date": "08-18-2025",
+        "time": "4:30am",
+        "impact": "Low",
+        "forecast": "0.2%",
+        "previous": "0.6%",
+        "url": "https://www.forexfactory.com/calendar/382-jn-tertiary-industry-activity-mm",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "Trade Balance",
+        "currency": "EUR",
+        "date": "08-18-2025",
+        "time": "9:00am",
+        "impact": "Low",
+        "forecast": "18.1B",
+        "previous": "16.2B",
+        "url": "https://www.forexfactory.com/calendar/120-ez-trade-balance",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Housing Starts",
+        "currency": "CAD",
+        "date": "08-18-2025",
+        "time": "12:15pm",
+        "impact": "Low",
+        "forecast": "264K",
+        "previous": "284K",
+        "url": "https://www.forexfactory.com/calendar/201-ca-housing-starts",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Foreign Securities Purchases",
+        "currency": "CAD",
+        "date": "08-18-2025",
+        "time": "12:30pm",
+        "impact": "Low",
+        "forecast": "-4.75B",
+        "previous": "-2.79B",
+        "url": "https://www.forexfactory.com/calendar/374-ca-foreign-securities-purchases",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "NAHB Housing Market Index",
+        "currency": "USD",
+        "date": "08-18-2025",
+        "time": "2:00pm",
+        "impact": "Low",
+        "forecast": "34",
+        "previous": "33",
+        "url": "https://www.forexfactory.com/calendar/162-us-nahb-housing-market-index",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "PPI Input q/q",
+        "currency": "NZD",
+        "date": "08-18-2025",
+        "time": "10:45pm",
+        "impact": "Low",
+        "forecast": "1.4%",
+        "previous": "2.9%",
+        "url": "https://www.forexfactory.com/calendar/94-nz-ppi-input-qq",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "PPI Output q/q",
+        "currency": "NZD",
+        "date": "08-18-2025",
+        "time": "10:45pm",
+        "impact": "Low",
+        "forecast": "1.0%",
+        "previous": "2.1%",
+        "url": "https://www.forexfactory.com/calendar/95-nz-ppi-output-qq",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Westpac Consumer Sentiment",
+        "currency": "AUD",
+        "date": "08-18-2025",
+        "time": "11:48pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "0.6%",
+        "url": "https://www.forexfactory.com/calendar/338-au-westpac-consumer-sentiment",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Current Account",
+        "currency": "EUR",
+        "date": "08-19-2025",
+        "time": "8:00am",
+        "impact": "Low",
+        "forecast": "33.4B",
+        "previous": "32.3B",
+        "url": "https://www.forexfactory.com/calendar/218-ez-current-account",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "President Trump Speaks",
+        "currency": "USD",
+        "date": "08-19-2025",
+        "time": "12:00pm",
+        "impact": "Medium",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "CPI m/m",
+        "currency": "CAD",
+        "date": "08-19-2025",
+        "time": "12:30pm",
+        "impact": "High",
+        "forecast": "0.3%",
+        "previous": "0.1%",
+        "url": "https://www.forexfactory.com/calendar/80-ca-cpi-mm",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Median CPI y/y",
+        "currency": "CAD",
+        "date": "08-19-2025",
+        "time": "12:30pm",
+        "impact": "High",
+        "forecast": "3.1%",
+        "previous": "3.1%",
+        "url": "https://www.forexfactory.com/calendar/659-ca-median-cpi-yy",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Trimmed CPI y/y",
+        "currency": "CAD",
+        "date": "08-19-2025",
+        "time": "12:30pm",
+        "impact": "High",
+        "forecast": "3.0%",
+        "previous": "3.0%",
+        "url": "https://www.forexfactory.com/calendar/657-ca-trimmed-cpi-yy",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Common CPI y/y",
+        "currency": "CAD",
+        "date": "08-19-2025",
+        "time": "12:30pm",
+        "impact": "Medium",
+        "forecast": "2.7%",
+        "previous": "2.6%",
+        "url": "https://www.forexfactory.com/calendar/664-ca-common-cpi-yy",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Core CPI m/m",
+        "currency": "CAD",
+        "date": "08-19-2025",
+        "time": "12:30pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "0.1%",
+        "url": "https://www.forexfactory.com/calendar/81-ca-core-cpi-mm",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Building Permits",
+        "currency": "USD",
+        "date": "08-19-2025",
+        "time": "12:30pm",
+        "impact": "Low",
+        "forecast": "1.39M",
+        "previous": "1.40M",
+        "url": "https://www.forexfactory.com/calendar/198-us-building-permits",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Housing Starts",
+        "currency": "USD",
+        "date": "08-19-2025",
+        "time": "12:30pm",
+        "impact": "Low",
+        "forecast": "1.29M",
+        "previous": "1.32M",
+        "url": "https://www.forexfactory.com/calendar/199-us-housing-starts",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "FOMC Member Bowman Speaks",
+        "currency": "USD",
+        "date": "08-19-2025",
+        "time": "2:00pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/812-us-fomc-member-bowman-speaks",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "GDT Price Index",
+        "currency": "NZD",
+        "date": "08-19-2025",
+        "time": "3:01pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "0.7%",
+        "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "FOMC Member Bowman Speaks",
+        "currency": "USD",
+        "date": "08-19-2025",
+        "time": "6:10pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/812-us-fomc-member-bowman-speaks",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "API Weekly Statistical Bulletin",
+        "currency": "USD",
+        "date": "08-19-2025",
+        "time": "8:30pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bulletin",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "Core Machinery Orders m/m",
+        "currency": "JPY",
+        "date": "08-19-2025",
+        "time": "11:50pm",
+        "impact": "Low",
+        "forecast": "-0.4%",
+        "previous": "-0.6%",
+        "url": "https://www.forexfactory.com/calendar/354-jn-core-machinery-orders-mm",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Trade Balance",
+        "currency": "JPY",
+        "date": "08-19-2025",
+        "time": "11:50pm",
+        "impact": "Low",
+        "forecast": "-0.07T",
+        "previous": "-0.24T",
+        "url": "https://www.forexfactory.com/calendar/123-jn-trade-balance",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "1-y Loan Prime Rate",
+        "currency": "CNY",
+        "date": "08-20-2025",
+        "time": "1:00am",
+        "impact": "Medium",
+        "forecast": "3.00%",
+        "previous": "3.00%",
+        "url": "https://www.forexfactory.com/calendar/777-ch-1-y-loan-prime-rate",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "5-y Loan Prime Rate",
+        "currency": "CNY",
+        "date": "08-20-2025",
+        "time": "1:00am",
+        "impact": "Medium",
+        "forecast": "3.50%",
+        "previous": "3.50%",
+        "url": "https://www.forexfactory.com/calendar/898-ch-5-y-loan-prime-rate",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "Official Cash Rate",
+        "currency": "NZD",
+        "date": "08-20-2025",
+        "time": "2:00am",
+        "impact": "High",
+        "forecast": "3.00%",
+        "previous": "3.25%",
+        "url": "https://www.forexfactory.com/calendar/23-nz-official-cash-rate",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "RBNZ Monetary Policy Statement",
+        "currency": "NZD",
+        "date": "08-20-2025",
+        "time": "2:00am",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/416-nz-rbnz-monetary-policy-statement",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "RBNZ Rate Statement",
+        "currency": "NZD",
+        "date": "08-20-2025",
+        "time": "2:00am",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/24-nz-rbnz-rate-statement",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "RBNZ Press Conference",
+        "currency": "NZD",
+        "date": "08-20-2025",
+        "time": "3:00am",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/406-nz-rbnz-press-conference",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "German PPI m/m",
+        "currency": "EUR",
+        "date": "08-20-2025",
+        "time": "6:00am",
+        "impact": "Low",
+        "forecast": "0.1%",
+        "previous": "0.1%",
+        "url": "https://www.forexfactory.com/calendar/88-ge-ppi-mm",
+        "sessions": [
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "CPI y/y",
+        "currency": "GBP",
+        "date": "08-20-2025",
+        "time": "6:00am",
+        "impact": "High",
+        "forecast": "3.7%",
+        "previous": "3.6%",
+        "url": "https://www.forexfactory.com/calendar/82-uk-cpi-yy",
+        "sessions": [
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "Core CPI y/y",
+        "currency": "GBP",
+        "date": "08-20-2025",
+        "time": "6:00am",
+        "impact": "Low",
+        "forecast": "3.7%",
+        "previous": "3.7%",
+        "url": "https://www.forexfactory.com/calendar/83-uk-core-cpi-yy",
+        "sessions": [
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "RPI y/y",
+        "currency": "GBP",
+        "date": "08-20-2025",
+        "time": "6:00am",
+        "impact": "Low",
+        "forecast": "4.5%",
+        "previous": "4.4%",
+        "url": "https://www.forexfactory.com/calendar/84-uk-rpi-yy",
+        "sessions": [
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "ECB President Lagarde Speaks",
+        "currency": "EUR",
+        "date": "08-20-2025",
+        "time": "7:10am",
+        "impact": "Medium",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "HPI y/y",
+        "currency": "GBP",
+        "date": "08-20-2025",
+        "time": "8:30am",
+        "impact": "Low",
+        "forecast": "4.0%",
+        "previous": "3.9%",
+        "url": "https://www.forexfactory.com/calendar/639-uk-hpi-yy",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "Final Core CPI y/y",
+        "currency": "EUR",
+        "date": "08-20-2025",
+        "time": "9:00am",
+        "impact": "Low",
+        "forecast": "2.3%",
+        "previous": "2.3%",
+        "url": "https://www.forexfactory.com/calendar/167-ez-final-core-cpi-yy",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Final CPI y/y",
+        "currency": "EUR",
+        "date": "08-20-2025",
+        "time": "9:00am",
+        "impact": "Low",
+        "forecast": "2.0%",
+        "previous": "2.0%",
+        "url": "https://www.forexfactory.com/calendar/166-ez-final-cpi-yy",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "German 30-y Bond Auction",
+        "currency": "EUR",
+        "date": "08-20-2025",
+        "time": "9:39am",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "3.22|1.4",
+        "url": "https://www.forexfactory.com/calendar/541-ge-30-y-bond-auction",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "NHPI m/m",
+        "currency": "CAD",
+        "date": "08-20-2025",
+        "time": "12:30pm",
+        "impact": "Low",
+        "forecast": "0.1%",
+        "previous": "-0.2%",
+        "url": "https://www.forexfactory.com/calendar/259-ca-nhpi-mm",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Crude Oil Inventories",
+        "currency": "USD",
+        "date": "08-20-2025",
+        "time": "2:30pm",
+        "impact": "Low",
+        "forecast": "-0.8M",
+        "previous": "3.0M",
+        "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "FOMC Member Waller Speaks",
+        "currency": "USD",
+        "date": "08-20-2025",
+        "time": "3:00pm",
+        "impact": "Medium",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "FOMC Meeting Minutes",
+        "currency": "USD",
+        "date": "08-20-2025",
+        "time": "6:00pm",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/304-us-fomc-meeting-minutes",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "FOMC Member Bostic Speaks",
+        "currency": "USD",
+        "date": "08-20-2025",
+        "time": "7:00pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/725-us-fomc-member-bostic-speaks",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "RBNZ Gov Hawkesby Speaks",
+        "currency": "NZD",
+        "date": "08-20-2025",
+        "time": "8:10pm",
+        "impact": "Medium",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/919-nz-rbnz-gov-hawkesby-speaks",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "Trade Balance",
+        "currency": "NZD",
+        "date": "08-20-2025",
+        "time": "10:45pm",
+        "impact": "Low",
+        "forecast": "70M",
+        "previous": "142M",
+        "url": "https://www.forexfactory.com/calendar/121-nz-trade-balance",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Flash Manufacturing PMI",
+        "currency": "AUD",
+        "date": "08-20-2025",
+        "time": "11:00pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "51.6",
+        "url": "https://www.forexfactory.com/calendar/817-au-flash-manufacturing-pmi",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Flash Services PMI",
+        "currency": "AUD",
+        "date": "08-20-2025",
+        "time": "11:00pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "53.8",
+        "url": "https://www.forexfactory.com/calendar/818-au-flash-services-pmi",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "Flash Manufacturing PMI",
+        "currency": "JPY",
+        "date": "08-21-2025",
+        "time": "12:30am",
+        "impact": "Low",
+        "forecast": "49.2",
+        "previous": "48.8",
+        "url": "https://www.forexfactory.com/calendar/595-jn-flash-manufacturing-pmi",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "MI Inflation Expectations",
+        "currency": "AUD",
+        "date": "08-21-2025",
+        "time": "1:00am",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "4.7%",
+        "url": "https://www.forexfactory.com/calendar/293-au-mi-inflation-expectations",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "Credit Card Spending y/y",
+        "currency": "NZD",
+        "date": "08-21-2025",
+        "time": "3:00am",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "0.9%",
+        "url": "https://www.forexfactory.com/calendar/184-nz-credit-card-spending-yy",
+        "sessions": [
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "Trade Balance",
+        "currency": "CHF",
+        "date": "08-21-2025",
+        "time": "6:00am",
+        "impact": "Low",
+        "forecast": "5.15B",
+        "previous": "5.79B",
+        "url": "https://www.forexfactory.com/calendar/124-sz-trade-balance",
+        "sessions": [
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "Public Sector Net Borrowing",
+        "currency": "GBP",
+        "date": "08-21-2025",
+        "time": "6:00am",
+        "impact": "Low",
+        "forecast": "2.1B",
+        "previous": "20.7B",
+        "url": "https://www.forexfactory.com/calendar/342-uk-public-sector-net-borrowing",
+        "sessions": [
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "French Flash Manufacturing PMI",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "7:15am",
+        "impact": "Medium",
+        "forecast": "48.2",
+        "previous": "48.4",
+        "url": "https://www.forexfactory.com/calendar/268-fr-flash-manufacturing-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "French Flash Services PMI",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "7:15am",
+        "impact": "Medium",
+        "forecast": "48.5",
+        "previous": "49.7",
+        "url": "https://www.forexfactory.com/calendar/269-fr-flash-services-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "German Flash Manufacturing PMI",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "7:30am",
+        "impact": "High",
+        "forecast": "48.8",
+        "previous": "49.2",
+        "url": "https://www.forexfactory.com/calendar/266-ge-flash-manufacturing-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "German Flash Services PMI",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "7:30am",
+        "impact": "High",
+        "forecast": "50.4",
+        "previous": "50.1",
+        "url": "https://www.forexfactory.com/calendar/267-ge-flash-services-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "Flash Manufacturing PMI",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "8:00am",
+        "impact": "Medium",
+        "forecast": "49.5",
+        "previous": "49.8",
+        "url": "https://www.forexfactory.com/calendar/263-ez-flash-manufacturing-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "Flash Services PMI",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "8:00am",
+        "impact": "Medium",
+        "forecast": "50.8",
+        "previous": "51.2",
+        "url": "https://www.forexfactory.com/calendar/244-ez-flash-services-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "Flash Manufacturing PMI",
+        "currency": "GBP",
+        "date": "08-21-2025",
+        "time": "8:30am",
+        "impact": "High",
+        "forecast": "48.2",
+        "previous": "48.2",
+        "url": "https://www.forexfactory.com/calendar/837-uk-flash-manufacturing-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "Flash Services PMI",
+        "currency": "GBP",
+        "date": "08-21-2025",
+        "time": "8:30am",
+        "impact": "High",
+        "forecast": "51.8",
+        "previous": "51.2",
+        "url": "https://www.forexfactory.com/calendar/836-uk-flash-services-pmi",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "German Buba Monthly Report",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "10:00am",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/581-ge-buba-monthly-report",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "CBI Industrial Order Expectations",
+        "currency": "GBP",
+        "date": "08-21-2025",
+        "time": "10:00am",
+        "impact": "Low",
+        "forecast": "-28",
+        "previous": "-30",
+        "url": "https://www.forexfactory.com/calendar/331-uk-cbi-industrial-order-expectations",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "FOMC Member Bostic Speaks",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "11:30am",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/725-us-fomc-member-bostic-speaks",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "IPPI m/m",
+        "currency": "CAD",
+        "date": "08-21-2025",
+        "time": "12:30pm",
+        "impact": "Low",
+        "forecast": "0.3%",
+        "previous": "0.4%",
+        "url": "https://www.forexfactory.com/calendar/90-ca-ippi-mm",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "RMPI m/m",
+        "currency": "CAD",
+        "date": "08-21-2025",
+        "time": "12:30pm",
+        "impact": "Low",
+        "forecast": "-0.5%",
+        "previous": "2.7%",
+        "url": "https://www.forexfactory.com/calendar/91-ca-rmpi-mm",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Unemployment Claims",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "12:30pm",
+        "impact": "High",
+        "forecast": "226K",
+        "previous": "224K",
+        "url": "https://www.forexfactory.com/calendar/11-us-unemployment-claims",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Philly Fed Manufacturing Index",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "12:30pm",
+        "impact": "Medium",
+        "forecast": "6.8",
+        "previous": "15.9",
+        "url": "https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-index",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Flash Manufacturing PMI",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "1:45pm",
+        "impact": "High",
+        "forecast": "49.7",
+        "previous": "49.5",
+        "url": "https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Flash Services PMI",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "1:45pm",
+        "impact": "High",
+        "forecast": "54.2",
+        "previous": "55.2",
+        "url": "https://www.forexfactory.com/calendar/583-us-flash-services-pmi",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Consumer Confidence",
+        "currency": "EUR",
+        "date": "08-21-2025",
+        "time": "2:00pm",
+        "impact": "Low",
+        "forecast": "-15",
+        "previous": "-15",
+        "url": "https://www.forexfactory.com/calendar/336-ez-consumer-confidence",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Existing Home Sales",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "2:00pm",
+        "impact": "Medium",
+        "forecast": "3.92M",
+        "previous": "3.93M",
+        "url": "https://www.forexfactory.com/calendar/232-us-existing-home-sales",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "CB Leading Index m/m",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "2:00pm",
+        "impact": "Low",
+        "forecast": "-0.1%",
+        "previous": "-0.3%",
+        "url": "https://www.forexfactory.com/calendar/297-us-cb-leading-index-mm",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Natural Gas Storage",
+        "currency": "USD",
+        "date": "08-21-2025",
+        "time": "2:30pm",
+        "impact": "Low",
+        "forecast": "19B",
+        "previous": "56B",
+        "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Gov Board Member Martin Speaks",
+        "currency": "CHF",
+        "date": "08-21-2025",
+        "time": "3:45pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/903-sz-gov-board-member-martin-speaks",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Jackson Hole Symposium",
+        "currency": "All",
+        "date": "08-21-2025",
+        "time": "4:15pm",
+        "impact": "Medium",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/474-jackson-hole-symposium",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "GfK Consumer Confidence",
+        "currency": "GBP",
+        "date": "08-21-2025",
+        "time": "11:01pm",
+        "impact": "Low",
+        "forecast": "-19",
+        "previous": "-19",
+        "url": "https://www.forexfactory.com/calendar/188-uk-gfk-consumer-confidence",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "National Core CPI y/y",
+        "currency": "JPY",
+        "date": "08-21-2025",
+        "time": "11:30pm",
+        "impact": "Low",
+        "forecast": "3.0%",
+        "previous": "3.3%",
+        "url": "https://www.forexfactory.com/calendar/174-jn-national-core-cpi-yy",
+        "sessions": [
+            "Sydney"
+        ]
+    },
+    {
+        "title": "German Final GDP q/q",
+        "currency": "EUR",
+        "date": "08-22-2025",
+        "time": "6:00am",
+        "impact": "Low",
+        "forecast": "-0.1%",
+        "previous": "-0.1%",
+        "url": "https://www.forexfactory.com/calendar/77-ge-final-gdp-qq",
+        "sessions": [
+            "Tokyo"
+        ]
+    },
+    {
+        "title": "Foreign Direct Investment ytd/y",
+        "currency": "CNY",
+        "date": "08-22-2025",
+        "time": "8:59am",
+        "impact": "Low",
+        "forecast": null,
+        "previous": "-15.2%",
+        "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
+        "sessions": [
+            "Tokyo",
+            "London"
+        ]
+    },
+    {
+        "title": "Core Retail Sales m/m",
+        "currency": "CAD",
+        "date": "08-22-2025",
+        "time": "12:30pm",
+        "impact": "Medium",
+        "forecast": "0.9%",
+        "previous": "-0.2%",
+        "url": "https://www.forexfactory.com/calendar/103-ca-core-retail-sales-mm",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "Retail Sales m/m",
+        "currency": "CAD",
+        "date": "08-22-2025",
+        "time": "12:30pm",
+        "impact": "Medium",
+        "forecast": "1.3%",
+        "previous": "-1.1%",
+        "url": "https://www.forexfactory.com/calendar/104-ca-retail-sales-mm",
+        "sessions": [
+            "London"
+        ]
+    },
+    {
+        "title": "FOMC Member Collins Speaks",
+        "currency": "USD",
+        "date": "08-22-2025",
+        "time": "1:00pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/882-us-fomc-member-collins-speaks",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Fed Chair Powell Speaks",
+        "currency": "USD",
+        "date": "08-22-2025",
+        "time": "2:00pm",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/717-us-fed-chair-powell-speaks",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "FOMC Member Hammack Speaks",
+        "currency": "USD",
+        "date": "08-22-2025",
+        "time": "3:30pm",
+        "impact": "Low",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/913-us-fomc-member-hammack-speaks",
+        "sessions": [
+            "London",
+            "New York",
+            "Golden Time"
+        ]
+    },
+    {
+        "title": "Jackson Hole Symposium",
+        "currency": "All",
+        "date": "08-22-2025",
+        "time": "4:15pm",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/474-jackson-hole-symposium",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "President Trump Speaks",
+        "currency": "USD",
+        "date": "08-22-2025",
+        "time": "5:05pm",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "Jackson Hole Symposium",
+        "currency": "All",
+        "date": "08-23-2025",
+        "time": "4:15pm",
+        "impact": "Medium",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/474-jackson-hole-symposium",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "ECB President Lagarde Speaks",
+        "currency": "EUR",
+        "date": "08-23-2025",
+        "time": "4:25pm",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "BOE Gov Bailey Speaks",
+        "currency": "GBP",
+        "date": "08-23-2025",
+        "time": "4:25pm",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/838-uk-boe-gov-bailey-speaks",
+        "sessions": [
+            "New York"
+        ]
+    },
+    {
+        "title": "BOJ Gov Ueda Speaks",
+        "currency": "JPY",
+        "date": "08-23-2025",
+        "time": "4:25pm",
+        "impact": "High",
+        "forecast": null,
+        "previous": null,
+        "url": "https://www.forexfactory.com/calendar/892-jn-boj-gov-ueda-speaks",
+        "sessions": [
+            "New York"
+        ]
+    }
+]
